@@ -39,7 +39,7 @@ That way those customers still feel rewarded for being a customer, while Starbuc
 The other 2 clusters are groups of people who should be offered more buy one get one free promotions. These customers might not be able to afford coming into Starbucks
 stores at a constant basis or don't go regularly for their own reasons should be given BOGO deals to reengage their interests in Starbucks and make them a more reliable customer.
 
-# Profile Portfolio and Transcript Data.zip
+# Profile Portfolio and Transcript Data
 Three JSON files that show profiles of customers, promotional deals that are offered, and the transaction history of customers.
 
 portfolio.json
