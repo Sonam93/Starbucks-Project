@@ -39,4 +39,30 @@ That way those customers still feel rewarded for being a customer, while Starbuc
 The other 2 clusters are groups of people who should be offered more buy one get one free promotions. These customers might not be able to afford coming into Starbucks
 stores at a constant basis or don't go regularly for their own reasons should be given BOGO deals to reengage their interests in Starbucks and make them a more reliable customer.
 
+# Profile Portfolio and Transcript Data.zip
+Three JSON files that show profiles of customers, promotional deals that are offered, and the transaction history of customers.
 
+portfolio.json
+
+id (string) - offer id
+offer_type (string) - type of offer ie BOGO, discount, informational
+difficulty (int) - minimum required spend to complete an offer
+reward (int) - reward given for completing an offer
+duration (int) - Time for offer to open
+channels (list of strings)
+profile.json
+
+age (int) - age of the customer
+became_member_on (int) - date when customer created an app account
+gender (str) - gender of the customer (note some entries contain 'O' for other rather than M or F)
+id (str) - customer id
+income (float) - customer's income
+transcript.json
+
+event (str) - record description (ie transaction, offer received, offer viewed, etc.)
+person (str) - customer id
+time (int) - time in hours. The data begins at time t=0
+value - (dict of strings) - either an offer id or transaction amount depending on the record
+
+Starbucks Capstone Project
+Jupyter Notebook starts with data cleanup and exploration, top level statsitics of customers and their transactions, and cluster analysis for better approaches of sending customers promotions in different clusters.
