@@ -65,5 +65,5 @@ person (str) - customer id
 time (int) - time in hours. The data begins at time t=0
 value - (dict of strings) - either an offer id or transaction amount depending on the record
 
-Starbucks Capstone Project
+# Starbucks Capstone Project
 Jupyter Notebook starts with data cleanup and exploration, top level statsitics of customers and their transactions, and cluster analysis for better approaches of sending customers promotions in different clusters.
