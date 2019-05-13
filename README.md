@@ -1,6 +1,6 @@
 # Starbucks-Project
 Exploring customer behaviour purchase of Starbucks and grouping the like customers in Clusters.
-Here is the link to my blogpost https://medium.com/@sonamsingh825/what-type-of-customers-visits-starbucks-or-their-app-and-what-promotional-offers-need-to-be-70b5cd4f58d3?source=friends_link&sk=ee5df7594381156d4c2c39a15e39b04d
+Here is the link to my blogpost  https://medium.com/@sonamsingh825/what-type-of-customers-visits-starbucks-or-their-app-and-what-promotional-offers-need-to-be-70b5cd4f58d3
 # Project Overview
 The Starbucks project was my capstone project for the Udacity Data Scientist Nanodegree.
 This data was provided by Starbucks to behaviour pattern of the Customer and their transaction 
